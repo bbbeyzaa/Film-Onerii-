@@ -1,0 +1,30 @@
+C:\Users\hp\source\repos\Film Öneri Projesi\Film Öneri Projesi\bin\Debug\Film Öneri Projesi.exe.config
+C:\Users\hp\source\repos\Film Öneri Projesi\Film Öneri Projesi\bin\Debug\Film Öneri Projesi.exe
+C:\Users\hp\source\repos\Film Öneri Projesi\Film Öneri Projesi\bin\Debug\Film Öneri Projesi.pdb
+C:\Users\hp\source\repos\Film Öneri Projesi\Film Öneri Projesi\obj\Debug\Film Öneri Projesi.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Film Öneri Projesi\Film Öneri Projesi\obj\Debug\Film_Öneri_Projesi.Form1.resources
+C:\Users\hp\source\repos\Film Öneri Projesi\Film Öneri Projesi\obj\Debug\Film_Öneri_Projesi.Properties.Resources.resources
+C:\Users\hp\source\repos\Film Öneri Projesi\Film Öneri Projesi\obj\Debug\Film Öneri Projesi.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Film Öneri Projesi\Film Öneri Projesi\obj\Debug\Film Öneri Projesi.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Film Öneri Projesi\Film Öneri Projesi\obj\Debug\Film Öneri Projesi.exe
+C:\Users\hp\source\repos\Film Öneri Projesi\Film Öneri Projesi\obj\Debug\Film Öneri Projesi.pdb
+C:\Users\vvvbe\OneDrive\Masaüstü\19220025 - Beyza Beyazıt\Film Öneri Projesi\Film Öneri Projesi\bin\Debug\Film Öneri Projesi.exe.config
+C:\Users\vvvbe\OneDrive\Masaüstü\19220025 - Beyza Beyazıt\Film Öneri Projesi\Film Öneri Projesi\bin\Debug\Film Öneri Projesi.exe
+C:\Users\vvvbe\OneDrive\Masaüstü\19220025 - Beyza Beyazıt\Film Öneri Projesi\Film Öneri Projesi\bin\Debug\Film Öneri Projesi.pdb
+C:\Users\vvvbe\OneDrive\Masaüstü\19220025 - Beyza Beyazıt\Film Öneri Projesi\Film Öneri Projesi\obj\Debug\Film Öneri Projesi.csproj.AssemblyReference.cache
+C:\Users\vvvbe\OneDrive\Masaüstü\19220025 - Beyza Beyazıt\Film Öneri Projesi\Film Öneri Projesi\obj\Debug\Film_Öneri_Projesi.Form1.resources
+C:\Users\vvvbe\OneDrive\Masaüstü\19220025 - Beyza Beyazıt\Film Öneri Projesi\Film Öneri Projesi\obj\Debug\Film_Öneri_Projesi.Properties.Resources.resources
+C:\Users\vvvbe\OneDrive\Masaüstü\19220025 - Beyza Beyazıt\Film Öneri Projesi\Film Öneri Projesi\obj\Debug\Film Öneri Projesi.csproj.GenerateResource.cache
+C:\Users\vvvbe\OneDrive\Masaüstü\19220025 - Beyza Beyazıt\Film Öneri Projesi\Film Öneri Projesi\obj\Debug\Film Öneri Projesi.csproj.CoreCompileInputs.cache
+C:\Users\vvvbe\OneDrive\Masaüstü\19220025 - Beyza Beyazıt\Film Öneri Projesi\Film Öneri Projesi\obj\Debug\Film Öneri Projesi.exe
+C:\Users\vvvbe\OneDrive\Masaüstü\19220025 - Beyza Beyazıt\Film Öneri Projesi\Film Öneri Projesi\obj\Debug\Film Öneri Projesi.pdb
+C:\Users\vvvbe\OneDrive\Masaüstü\ggg\19220025 - Beyza Beyazıt\Film Öneri Projesi\Film Öneri Projesi\bin\Debug\Film Öneri Projesi.exe.config
+C:\Users\vvvbe\OneDrive\Masaüstü\ggg\19220025 - Beyza Beyazıt\Film Öneri Projesi\Film Öneri Projesi\bin\Debug\Film Öneri Projesi.exe
+C:\Users\vvvbe\OneDrive\Masaüstü\ggg\19220025 - Beyza Beyazıt\Film Öneri Projesi\Film Öneri Projesi\bin\Debug\Film Öneri Projesi.pdb
+C:\Users\vvvbe\OneDrive\Masaüstü\ggg\19220025 - Beyza Beyazıt\Film Öneri Projesi\Film Öneri Projesi\obj\Debug\Film Öneri Projesi.csproj.AssemblyReference.cache
+C:\Users\vvvbe\OneDrive\Masaüstü\ggg\19220025 - Beyza Beyazıt\Film Öneri Projesi\Film Öneri Projesi\obj\Debug\Film_Öneri_Projesi.Form1.resources
+C:\Users\vvvbe\OneDrive\Masaüstü\ggg\19220025 - Beyza Beyazıt\Film Öneri Projesi\Film Öneri Projesi\obj\Debug\Film_Öneri_Projesi.Properties.Resources.resources
+C:\Users\vvvbe\OneDrive\Masaüstü\ggg\19220025 - Beyza Beyazıt\Film Öneri Projesi\Film Öneri Projesi\obj\Debug\Film Öneri Projesi.csproj.GenerateResource.cache
+C:\Users\vvvbe\OneDrive\Masaüstü\ggg\19220025 - Beyza Beyazıt\Film Öneri Projesi\Film Öneri Projesi\obj\Debug\Film Öneri Projesi.csproj.CoreCompileInputs.cache
+C:\Users\vvvbe\OneDrive\Masaüstü\ggg\19220025 - Beyza Beyazıt\Film Öneri Projesi\Film Öneri Projesi\obj\Debug\Film Öneri Projesi.exe
+C:\Users\vvvbe\OneDrive\Masaüstü\ggg\19220025 - Beyza Beyazıt\Film Öneri Projesi\Film Öneri Projesi\obj\Debug\Film Öneri Projesi.pdb
